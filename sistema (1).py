@@ -5,7 +5,7 @@ def cadastro():
   print("-="*20,"\n")
 
 cadastro()
-print("Olá, bem vindo(a) ao nosso mais novo programa\n")
+print(" ")
 cadastro()
 
 while True:
